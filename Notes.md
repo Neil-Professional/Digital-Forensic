@@ -6,3 +6,4 @@ Now: Vehicle entertainment, drones, cloud, alexas, refrigerators and TVs.
 Forensic method must be repeatable and reproducible
 Approved methodologies
 Validated
+
